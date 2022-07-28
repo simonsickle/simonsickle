@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonsickle)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonsickle&theme=darcula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 I’m currently working on home automation and containerization
+:iphone: I'm an Android software engineer @square
 
-🌱 I’m currently learning Swift and Python
+:robot: My side projects are focused on automation and containerization (Home Assistant, Docker, etc)
+
+:seedling: I’m currently learning Swift and Python
